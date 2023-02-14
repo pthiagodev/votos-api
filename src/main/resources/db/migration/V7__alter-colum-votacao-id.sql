@@ -1,0 +1,1 @@
+alter table pautas modify votacao_id bigint;

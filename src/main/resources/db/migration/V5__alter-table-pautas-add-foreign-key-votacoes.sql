@@ -1,0 +1,1 @@
+alter table pautas add foreign key(votacao_id) references votacoes(id);
